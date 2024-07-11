@@ -1,0 +1,5 @@
+
+Appointment with DR.Mark			Type of scan : MRI	Room : A6
+Appointment with DR.Mark			Type of scan : CT	Room : A6
+Appointment with DR.April			Type of scan : PET	Room : A3
+Appointment with DR.Luna			Type of scan : MRI	Room : A3
